@@ -41,5 +41,7 @@ https://chatgpt.com/share/688b1010-b26c-8013-9362-18957eb2474b
 チラシの数は
 https://action.team-mir.ai/map/posting
 を目視でカウント
+区をまたいでいたら、半々でわけた
+実際に配布されてマップに反映されていないチラシについてはデータを取れていないバイアスがある
 
 dms.csv
