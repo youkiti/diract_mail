@@ -6,7 +6,7 @@
 
 二大政党制の米国では政党間を移動する有権者（説得効果）が少なく、既存支持者の投票率向上が重要とされている。しかし、日本の政治的文脈において、チラシの特定の政党への投票への寄与についての十分な定量的分析が不足している。
 
-本研究では、2025年の参議院議員選挙において、京都市を対象として、国政政党「チームみらい」による直接チラシ配布が得票に与える影響を、人口統計学的要因を考慮して統計的に分析することを目的とした。京都市を選択した理由は、同団体が一定程度の配布活動を行っており、かつ選挙区に直接立候補していないことから、純粋なキャンペーン効果を観察できる可能性があるためである。
+本レポートでは、2025年の参議院議員選挙において、京都市を対象として、国政政党「チームみらい」による直接チラシ配布が得票に与える影響を、人口統計学的要因を考慮して統計的に分析することを目的とした。京都市を選択した理由は、同団体が一定程度の配布活動を行っており、かつ選挙区に直接立候補していないことから、純粋なキャンペーン効果を観察できる可能性があるためである。
 
 [^1]: Gerber, A. S., & Green, D. P. (2000). The effects of canvassing, telephone calls, and direct mail on voter turnout: A field experiment. American Political Science Review, 94(3), 653-663.
 [^2]: Kalla, J. L., & Broockman, D. E. (2018). The minimal persuasive effects of campaign contact in general elections: Evidence from 49 field experiments. American Political Science Review, 112(1), 148-166.
